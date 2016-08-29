@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mitto.SS.SMS.Middleware", "Mitto.SS.SMS.Middleware\Mitto.SS.SMS.Middleware\Mitto.SS.SMS.Middleware.csproj", "{4389B305-B381-4B50-B1A8-BBB5259A0524}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mitto.SS.SMS.Middleware.ServiceInterface", "Mitto.SS.SMS.Middleware\Mitto.SS.SMS.Middleware.ServiceInterface\Mitto.SS.SMS.Middleware.ServiceInterface.csproj", "{801A0F89-D5F6-49A6-BCEA-6624388C98A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mitto.SS.SMS.Middleware.Core", "Mitto.SS.SMS.Middleware.Core\Mitto.SS.SMS.Middleware.Core.csproj", "{E25E329D-E115-493D-96C7-CF2E5B489712}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mitto.SS.SMS.Business", "Mitto.SS.SMS.Business\Mitto.SS.SMS.Business.csproj", "{758EE2E4-CBA0-4966-8EC4-88C0773FCEE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mitto.SS.SMS.Data", "Mitto.SS.SMS.Data\Mitto.SS.SMS.Data.csproj", "{844BF204-BFB9-4B98-BB7E-34E1E16B3F81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4389B305-B381-4B50-B1A8-BBB5259A0524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4389B305-B381-4B50-B1A8-BBB5259A0524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4389B305-B381-4B50-B1A8-BBB5259A0524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4389B305-B381-4B50-B1A8-BBB5259A0524}.Release|Any CPU.Build.0 = Release|Any CPU
+		{801A0F89-D5F6-49A6-BCEA-6624388C98A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{801A0F89-D5F6-49A6-BCEA-6624388C98A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{801A0F89-D5F6-49A6-BCEA-6624388C98A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{801A0F89-D5F6-49A6-BCEA-6624388C98A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E25E329D-E115-493D-96C7-CF2E5B489712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E25E329D-E115-493D-96C7-CF2E5B489712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E25E329D-E115-493D-96C7-CF2E5B489712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E25E329D-E115-493D-96C7-CF2E5B489712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{758EE2E4-CBA0-4966-8EC4-88C0773FCEE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{758EE2E4-CBA0-4966-8EC4-88C0773FCEE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{758EE2E4-CBA0-4966-8EC4-88C0773FCEE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{758EE2E4-CBA0-4966-8EC4-88C0773FCEE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{844BF204-BFB9-4B98-BB7E-34E1E16B3F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{844BF204-BFB9-4B98-BB7E-34E1E16B3F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{844BF204-BFB9-4B98-BB7E-34E1E16B3F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{844BF204-BFB9-4B98-BB7E-34E1E16B3F81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
